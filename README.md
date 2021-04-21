@@ -14,7 +14,6 @@
   
 
 <hr color="#628fda">
-<br>
 
 ### GITHUB STATS
 
