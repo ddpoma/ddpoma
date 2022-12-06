@@ -1,13 +1,46 @@
 ## Hi , I'm David. 
-### 📘  I'm a Junior Software Developer 
-<hr color="cyan">
+### 🖋️  I'm a Junior Software Developer 
+<img src="img/purple-line.png">
 
-![Alt Text](img/github-gif-2.gif)
+![Alt Text](https://media.giphy.com/media/vLi3T5m3RH45y/giphy.gif)
 
-### 🔧 LANGUAGES AND TOOLS:
-   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  
-<hr color="#628fda">
+<ul>
+   <li><i> I'm currently on a superior grade of Apps development </i> </li>
+   <li><i> On my github profile i'll upload my currently proyects</i> </li>
+</ul>
+
+
+
+
+### LANGUAGES 
+<img src="img/purple-line.png">
+
+ <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+ <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+ <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+
+
+### TOOLS
+<img src="img/purple-line.png">
+ <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+ <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+ <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+ <img width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+
+   <br>
+  <br>
+
+### STATS
+<img src="img/purple-line.png">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netvid&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
