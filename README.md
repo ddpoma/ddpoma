@@ -30,9 +30,7 @@
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
 
-   <br>
-  <br>
-
+<br>
 ### STATS
 <img width="100%" height="30" src="img/purple-line.png">
 
