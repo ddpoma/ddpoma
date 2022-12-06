@@ -1,6 +1,6 @@
 ## Hi , I'm David. 
 ### 🖋️  I'm a Junior Software Developer 
-<img src="img/purple-line.png">
+<img width="100%" height="30" src="img/purple-line.png">
 
 ![Alt Text](https://media.giphy.com/media/vLi3T5m3RH45y/giphy.gif)
 
@@ -13,8 +13,7 @@
 
 
 ### LANGUAGES 
-<img src="img/purple-line.png">
-
+<img width="100%" height="30" src="img/purple-line.png">
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -26,7 +25,7 @@
 
 
 ### TOOLS
-<img src="img/purple-line.png">
+<img width="100%" height="30" src="img/purple-line.png">
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -37,7 +36,7 @@
   <br>
 
 ### STATS
-<img src="img/purple-line.png">
+<img width="100%" height="30" src="img/purple-line.png">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netvid&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
