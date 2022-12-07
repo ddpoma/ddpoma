@@ -1,4 +1,4 @@
-## Hi , I'm David. 
+# Hi , I'm David. 
 ### 🖋️  I'm a Junior Software Developer 
 <img width="100%" height="30" src="img/purple-line.png">
 
@@ -26,16 +26,17 @@
 ### TOOLS
 <img width="100%" height="30" src="img/purple-line.png">
 
- <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
 
-<br>
+   <br>
+  <br>
 
 ### STATS
 <img width="100%" height="30" src="img/purple-line.png">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netvid&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netvid&layout=compact&theme=dracula&hide_title=true&card_width=800&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
