@@ -1,15 +1,13 @@
 # Hi , I'm David. 
-### 🖋️  I'm a Junior Software Developer 
+### 🖋️  I'm an Application Developer 
 <img width="100%" height="30" src="img/purple-line.png">
 
 ![Alt Text](https://media.giphy.com/media/vLi3T5m3RH45y/giphy.gif)
 
 <ul>
-   <li><i> I'm currently on a superior grade of Apps development </i> </li>
-   <li><i> On my github profile i'll upload my currently proyects</i> </li>
+   <li><i> I'm currently working as Application Developer </i> </li>
+   <li><i> In my github profile i'll upload my currently personal proyects i'm working</i> </li>
 </ul>
-
-
 
 
 ### LANGUAGES 
