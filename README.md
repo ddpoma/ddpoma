@@ -1,23 +1,14 @@
-# Hi , I'm David. 
+# Hi, I'm David. 
 
-### 🖋️  I'm an Application Developer
+### I'm an Application Developer
 
 <img width="100%" height="30" src="img/purple-line.png">
 
 <br>
 
-<ul>
+I'm currently working as an Application Developer in Eviden building business applications and contributing to architecture projects with the market technologies. 
 
-   <li><i> I'm currently working as Application Developer </i> </li>
-
-   <li><i> On my github profile i'll upload my currently personal proyects</i> </li>
-
-</ul>
-
-
-
-
-### LANGUAGES 
+### Programming languages
 <img width="100%" height="30" src="img/purple-line.png">
 
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -38,7 +29,7 @@
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 
 
-### TOOLS
+### Personal tools
 
 <img width="100%" height="30" src="img/purple-line.png">
 
