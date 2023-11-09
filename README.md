@@ -1,10 +1,10 @@
 # Hi, I'm David. 
 
-### I'm an Application Developer
+### Profile
 
-<img width="100%" height="30" src="img/purple-line.png">
+<img width="100%" height="30" src="media/img/purple-line.png">
 
-I'm currently working as an Application Developer in Eviden building business applications and contributing to architecture projects with the market technologies. 
+I'm currently working as an Application Developer at [Eviden](https://eviden.com/), building business applications and contributing to architecture projects using on-demand technologies. 
 
 ```python
 while True:
@@ -12,7 +12,7 @@ while True:
 ```
 
 ### Programming languages
-<img width="100%" height="30" src="img/purple-line.png">
+<img width="100%" height="30" src="media/img/purple-line.png">
 
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -23,22 +23,14 @@ while True:
 <br>
 
 ### Frameworks & Technologies
-<img width="100%" height="30" src="img/purple-line.png">
+<img width="100%" height="30" src="media/img/purple-line.png">
+
 
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-
-
-<br>
-
-### Personal tools
-
-<img width="100%" height="30" src="img/purple-line.png">
-
-
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /> 
+ <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
 <br>
 
