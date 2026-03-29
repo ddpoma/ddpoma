@@ -4,7 +4,7 @@
 
 <img width="100%" height="30" src="media/img/purple-line.png">
 
-I'm currently working as an Application Developer at [Atos](https://atos.net/en/), building business applications and contributing to architecture projects using on-demand technologies. 
+I'm an application developer
 
 ### Programming languages
 <img width="100%" height="30" src="media/img/purple-line.png">
